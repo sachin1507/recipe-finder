@@ -14,4 +14,6 @@ PHP 5 or newer
 
 ##Unit Testing
 Full unit tests provided in /tests requires PHPUnit to be installed via composer.
+````
 ./vendor/bin/phpunit tests/RecipeFinderTest.php
+````
